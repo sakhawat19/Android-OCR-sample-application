@@ -1,0 +1,1 @@
+# Android-OCR-sample-application
